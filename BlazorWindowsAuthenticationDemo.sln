@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWindowsAuthenticationDemo", "BlazorWindowsAuthenticationDemo\BlazorWindowsAuthenticationDemo.csproj", "{5C910BF3-6883-4BEC-B239-E3D03079159E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C910BF3-6883-4BEC-B239-E3D03079159E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C910BF3-6883-4BEC-B239-E3D03079159E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C910BF3-6883-4BEC-B239-E3D03079159E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C910BF3-6883-4BEC-B239-E3D03079159E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9923162C-139E-463E-AD4F-7616B4D37BD8}
+	EndGlobalSection
+EndGlobal
